@@ -1,0 +1,8 @@
+The following are a brief explanation to the scripts present here.
+  * DataAugmentation.py - used to create augmented images and saving them. (Dependancy - Files_per_Class_Counter.py)
+  * Detect.py - It is a script which just calls the inference script. (Dependancy - Inference.py)
+  * Files_per_Class_Counter.py - Takes the locations where the labelled images are present and returns the maximum number of images present in a class (No dependancies)
+  * Inference.py - This loads the model, it takes one image file and does a prediction.(No Dependencies)
+  * LabelGenerator.py - Takes the originally downloaded folder, creates labels as names of the files in the folders and stores them in a different location (No dependencies)
+  * Splitter.py -Split data into train and test sets. (No Dependancies)
+  * Train.py - Contains the models and training codes. (No dependancies)
