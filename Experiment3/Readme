@@ -1,0 +1,7 @@
+In this experiment, I have first split the data into trianing and tesing set. 
+Then I found out how many images are present in every class.
+Next I augmented the images using serveral tensorflow functions to match the numbers to the maximum number of images present in a class. 
+In this case it is luggage.
+By theory this should give good results. On training I got accuracies of upto 87%. 
+But these accuracies do not speak much as the images in the test set are not evenly distributed.
+Some trianing statistics are uploaded as images.
