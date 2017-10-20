@@ -13,3 +13,6 @@ The images provided to me basically belonged to 4 classes. But the images from t
   * I have augmented the data and tested it on an augmented dataset (Experiment 4)
   
 The details on these experiments are mentioned in the experiments folder.
+I also wrote several scripts which you can find on the 'Scripts' folder. 
+Before running the scripts please ensure that all the dependencies are installed in your computer.
+The dependancies are mentioned in the 'Dependencies' file
