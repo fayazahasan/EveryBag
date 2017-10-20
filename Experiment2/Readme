@@ -1,0 +1,4 @@
+In this experiment I have taken 400 images per class and split them into training and test set. 
+With my network I could attain approximately 75% accuracy.
+But since the dataset is too small I would not call this to be a very good model, as it may not perform well while testing.
+Some trianing images are uploaded for reference
