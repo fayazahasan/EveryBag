@@ -1,0 +1,9 @@
+In this experiment I have used augmented images on both training and test set.
+First the dataset was split into trianing and testing images.
+Next these images were augmented.
+This lead to the creation of a test set which was equally spaced in terms of number of images per class.
+However the accuracies I got using this method was less than 60%.
+I arrived at a conclusion that the images in the dataset are not equal.
+Augmenting the dataset will not be able to improve accuracies as augmentation by a multiple of 20 creates different images, but it does not give the network to learn much.
+In conclusion, this problem will be better solved if we had similar number of images per class.
+Some training statistics are uploaded as images.
