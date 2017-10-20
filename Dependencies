@@ -1,0 +1,20 @@
+* OS - Ubuntu 16.04.3 LTS 64-bit
+* Hardware Specs : 
+    * Intel® Core™ i7-5930K CPU @ 3.50GHz × 6 
+    * GeForce GTX 1080 Ti/PCIe/SSE2
+    * RAM - 64GB
+ 
+ * Python version : 2.7.13
+ * Tensorflow Version : 1.0.0
+ 
+ Libraries:
+  * glob
+  * os
+  * argparse
+  * Tkinter
+  * tkFileDialog
+  * PIL
+  * Shutil
+  * Random
+  * Numpy
+                    
