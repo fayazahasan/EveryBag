@@ -11,3 +11,5 @@ The images provided to me basically belonged to 4 classes. But the images from t
   * I have trained 400 images per class
   * I have augmented the data and tested it using a non-augmented dataset
   * I have augmented the data and tested it on an augmented dataset
+  
+The details on these experiments are mentioned in the experiments folder.
