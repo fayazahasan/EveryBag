@@ -1,0 +1,4 @@
+In this experiment I have taken the files as it is, split them into a training and a test set and run it through my CNN.
+The test accuracy I acheive on doing that is close to 90%.
+But I would not go by this accuracy as the images in each class are not evenly distributed, even in the test set. 
+Some training statistics are shared as images.
