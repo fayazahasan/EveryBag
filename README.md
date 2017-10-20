@@ -1,7 +1,8 @@
 # EveryBag
 A short task to classify images of luggage into 4 categories using computer vision and deep learning
 
-Hi Markus
+Hi Markus,
+
 It has been an extremely interesting task for me to do. Within the short time I could make amidst work, I could only focus on categorising the images into the 4 major classes of backpacks, bags, luggages and accesories. I am sure I will spend some more time to solve this problem further. But for the sake of submission I am doing this now.
 
 Let us start by talking about the dataset.
@@ -19,4 +20,8 @@ Before running the scripts please ensure that all the dependencies are installed
 The dependancies are mentioned in the 'Dependencies' file
 
 In order to make an inference, please clone the files named 'Inference.py' and Detect.py. Next lownload the saved model and save it in a location. Mention this locaiton in the 'Inference.py' script. And just run the 'Detect.py' script.
+
+Hope you like the work. Sorry for the delay, but I could barely make any time form work.
+Best Regards,
+Fayaz Ahasan
 
