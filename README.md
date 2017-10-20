@@ -22,6 +22,8 @@ The dependancies are mentioned in the 'Dependencies' file
 In order to make an inference, please clone the files named 'Inference.py' and Detect.py. Next lownload the saved model and save it in a location. Mention this locaiton in the 'Inference.py' script. And just run the 'Detect.py' script.
 
 Hope you like the work. Sorry for the delay, but I could barely make any time form work.
+
 Best Regards,
+
 Fayaz Ahasan
 
